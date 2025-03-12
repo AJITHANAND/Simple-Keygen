@@ -35,8 +35,8 @@ go-rest-api
 1. Clone the repository:
 
    ```
-   git clone https://github.com/microsoft/vscode-remote-try-go.git
-   cd go-rest-api
+   git clone https://github.com/AJITHANAND/Simple-Keygen.git simple-keygen
+   cd simple-keygen
    ```
 
 2. Install dependencies:
